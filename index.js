@@ -34,3 +34,10 @@ http
  * https://lkrqjw-8080.csb.app/
  *  - Return read template file with replaced “{{device}}” with user device info and “{{language}}” with user preferred language
  */
+
+
+/*
+https://codesandbox.io/api/v1/sandboxes/d95rpr/slim
+https://sse-lb.codesandbox.io/api/cluster/d95rpr
+https://d95rpr.sse.codesandbox.io/?name=
+*/
